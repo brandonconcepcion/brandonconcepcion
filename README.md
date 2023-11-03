@@ -1,6 +1,6 @@
 
 <h1>Welcome!
-<img src="https://media2.giphy.com/media/0Yc8mk9PwoqvepYRQX/giphy.gif?cid=6c09b95229ofhcs2nbh273hhxifya6w55zes8z42do0h0ddt&ep=v1_stickers_related&rid=giphy.gif&ct=s">
+<img src= "https://media0.giphy.com/media/bcKmIWkUMCjVm/giphy.gif?cid=ecf05e47eycye0b6bovev92zq3e55o2qowlqn9vozpb95seb&ep=v1_gifs_search&rid=giphy.gif&ct=g">
 </h1>
 
 
@@ -34,11 +34,13 @@ Hello! My name is Brandon Lee Concepcion and I attend @ucberkeley. I am progress
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=plastic&logo=figma&logoColor=white)
 
 <head>
-    <title>Hey, it's me! </title>
+    <title>
+        Hey, it's me!
+    </title>
 </head>
 <body>
 <img src= "https://media.licdn.com/dms/image/D5603AQGVLVwPuBkasQ/profile-displayphoto-shrink_800_800/0/1676583527337?e=1704326400&v=beta&t=aKWEfdB7DWyyrY5lkpK5Bo4vZmxWr_TFD8vnhjxq0YE" alt = "Headshot!">
-</bodyd>
+</body>
 
 
 
