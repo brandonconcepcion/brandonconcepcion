@@ -10,7 +10,7 @@ Hello! My name is Brandon Lee Concepcion and I attend UC Berkeley. I am progress
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/brandon-concepcion-a161b4248/) 
-[![Instagram](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.instagram.com/bran.bato/) 
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/bran.bato/) 
 
 <!--
 **branbato/branbato** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
