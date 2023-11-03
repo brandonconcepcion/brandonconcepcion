@@ -44,7 +44,7 @@ Hello! My name is Brandon Lee Concepcion and I attend @ucberkeley. I am progress
 <h1>
   A quote I like:
 
-  <p style="font-size: 20px;">Don't chase, Attract!</p>
+  <p style="font-size: 14px;">Don't chase, Attract!</p>
 
 </h1> 
 
