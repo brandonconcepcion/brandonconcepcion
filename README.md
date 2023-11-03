@@ -1,6 +1,7 @@
 
 <h1>Welcome!
 </h1>
+
 <p align="center">
 <img src="https://media4.giphy.com/media/nfZuetIXD3B6OFA7a5/giphy.gif?cid=6c09b9522j120pe1x2pgn7vt4ahlbta90bex7a5h3lkq406f&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=s" width="300" height="300" alt="Alt text for the GIF"/>
 </p>
@@ -42,10 +43,7 @@ Hello! My name is Brandon Lee Concepcion and I attend @ucberkeley. I am progress
 <img src= "https://media.licdn.com/dms/image/D5603AQGVLVwPuBkasQ/profile-displayphoto-shrink_800_800/0/1676583527337?e=1704326400&v=beta&t=aKWEfdB7DWyyrY5lkpK5Bo4vZmxWr_TFD8vnhjxq0YE">
 
 <h1>
-  A quote I like:
-
-  <p style="font-size: 14px;">Don't chase, Attract!</p>
-
+  Don't chase, Attract!
 </h1> 
 
 
