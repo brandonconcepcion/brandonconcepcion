@@ -1,3 +1,10 @@
+
+<h1>Welcome!
+<img src= 'https://media0.giphy.com/media/bcKmIWkUMCjVm/giphy.gif?cid=ecf05e47eycye0b6bovev92zq3e55o2qowlqn9vozpb95seb&ep=v1_gifs_search&rid=giphy.gif&ct=g'>
+</h1>
+
+
+
 ### About me 
 Hello! My name is Brandon Lee Concepcion and I attend UC Berkeley. I am progressing through a double major in computer science and data science! My current positions are Course tutor for UC Berkeley's Data 8 class and an Academic Mentor for the Data Science Society's Academic Development Program! 
 
