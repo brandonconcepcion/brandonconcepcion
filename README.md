@@ -1,7 +1,8 @@
 
 <h1>Welcome!
-<img src= "https://media0.giphy.com/media/bcKmIWkUMCjVm/giphy.gif?cid=ecf05e47eycye0b6bovev92zq3e55o2qowlqn9vozpb95seb&ep=v1_gifs_search&rid=giphy.gif&ct=g">
 </h1>
+
+<img src= "https://media0.giphy.com/media/bcKmIWkUMCjVm/giphy.gif?cid=ecf05e47eycye0b6bovev92zq3e55o2qowlqn9vozpb95seb&ep=v1_gifs_search&rid=giphy.gif&ct=g">
 
 
 
