@@ -1,6 +1,6 @@
 
 <h1>Welcome!
-<img src= 'https://media2.giphy.com/media/0Yc8mk9PwoqvepYRQX/giphy.gif?cid=6c09b95229ofhcs2nbh273hhxifya6w55zes8z42do0h0ddt&ep=v1_stickers_related&rid=giphy.gif&ct=s'>
+<img src="https://media2.giphy.com/media/0Yc8mk9PwoqvepYRQX/giphy.gif?cid=6c09b95229ofhcs2nbh273hhxifya6w55zes8z42do0h0ddt&ep=v1_stickers_related&rid=giphy.gif&ct=s">
 </h1>
 
 
