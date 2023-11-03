@@ -2,9 +2,10 @@
 <h1>Welcome!
 </h1>
 <p align="center">
-<img src="https://media0.giphy.com/media/bcKmIWkUMCjVm/giphy.gif?cid=ecf05e47eycye0b6bovev92zq3e55o2qowlqn9vozpb95seb&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="400" height="250" alt="Alt text for the GIF"/>
+<img src="https://media4.giphy.com/media/nfZuetIXD3B6OFA7a5/giphy.gif?cid=6c09b9522j120pe1x2pgn7vt4ahlbta90bex7a5h3lkq406f&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=s" width="300" height="300" alt="Alt text for the GIF"/>
 </p>
 
+https://media4.giphy.com/media/nfZuetIXD3B6OFA7a5/giphy.gif?cid=6c09b9522j120pe1x2pgn7vt4ahlbta90bex7a5h3lkq406f&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=s
 
 
 ### About me 
