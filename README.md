@@ -9,8 +9,8 @@
 Hello! My name is Brandon Lee Concepcion and I attend UC Berkeley. I am progressing through a double major in computer science and data science! My current positions are Course tutor for UC Berkeley's Data 8 class and an Academic Mentor for the Data Science Society's Academic Development Program! 
 
 ## 🌐 Socials:
-[![LinkedIn](https://www.linkedin.com/in/brandon-concepcion-a161b4248/) 
-[![Instagram](https://www.instagram.com/bran.bato/) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/brandon-concepcion-a161b4248/) 
+[![Instagram](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.instagram.com/bran.bato/) 
 
 <!--
 **branbato/branbato** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
