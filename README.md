@@ -29,6 +29,7 @@ Hello! My name is Brandon Lee Concepcion and I attend @ucberkeley. I am progress
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=plastic&logo=pandas&logoColor=white) 
 ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=plastic&logo=plotly&logoColor=white) 
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=plastic&logo=scikit-learn&logoColor=white)
+[![Matplotlib](https://img.shields.io/badge/Matplotlib-1.5.3-blue.svg)](https://matplotlib.org/)
 
 
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=plastic&logo=Canva&logoColor=white) 	
