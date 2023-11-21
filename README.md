@@ -37,10 +37,6 @@ Hello! My name is Brandon Lee Concepcion and I attend @ucberkeley. I am progress
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=plastic&logo=figma&logoColor=white)
 
 <h1>
-  Hey, it's me!
-</h1>
-
-<h1>
   Don't chase, Attract!
 </h1> 
 
