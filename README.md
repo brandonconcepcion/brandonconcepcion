@@ -40,8 +40,6 @@ Hello! My name is Brandon Lee Concepcion and I attend @ucberkeley. I am progress
   Hey, it's me!
 </h1>
 
-<img src= "https://media.licdn.com/dms/image/D5603AQGVLVwPuBkasQ/profile-displayphoto-shrink_800_800/0/1676583527337?e=1704326400&v=beta&t=aKWEfdB7DWyyrY5lkpK5Bo4vZmxWr_TFD8vnhjxq0YE">
-
 <h1>
   Don't chase, Attract!
 </h1> 
