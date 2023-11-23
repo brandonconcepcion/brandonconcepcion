@@ -10,7 +10,7 @@
 ### About me 
 Hello! My name is Brandon Lee Concepcion and I attend @ucberkeley. I am progressing through a double major in computer science and data science! My current positions are Course tutor for UC Berkeley's @data-8 class, an Academic Mentor for the Data Science Society's Academic Development Program, and a Data Entry Intern for the Califonia Homebuilding Foundation!
 
-Feel free to reach me at [brandon_concepcion@berkeley.edu][mailto:brandon_concepcion@berkeley.edu]
+Feel free to reach me at [brandon_concepcion@berkeley.edu](mailto:brandon_concepcion@berkeley.edu)
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/brandon-concepcion-a161b4248/) 
