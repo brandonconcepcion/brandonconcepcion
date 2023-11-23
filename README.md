@@ -24,8 +24,6 @@ Feel free to reach me at [brandon_concepcion@berkeley.edu](mailto:brandon_concep
 ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=plastic&logo=latex&logoColor=white) 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white) 
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=plastic&logo=css3&logoColor=white)
-![BeautifulSoup4](https://img.shields.io/badge/beautifulsoup4-%231572B6.svg?style=plastic&logo=css3&logoColor=white)
-
 
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=plastic&logo=notion&logoColor=white)
 
