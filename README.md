@@ -42,8 +42,8 @@ Feel free to reach me at [brandon_concepcion@berkeley.edu](mailto:brandon_concep
 
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=jonathanferrari&theme=darcula&hide_border=true&include_all_commits=false&count_private=true&show_icons=true&bg_color=00000000&hide=stars,prs&card_width=750)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=jonathanferrari&theme=darcula&hide_border=true&include_all_commits=true&count_private=true&layout=compact&hide=html,dart,c,cmake&bg_color=00000000&card_width=750)
+![](https://github-readme-stats.vercel.app/api?username=brandonconcepcion&theme=darcula&hide_border=true&include_all_commits=false&count_private=true&show_icons=true&bg_color=00000000&hide=stars,prs&card_width=750)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=brandonconcepcion&theme=darcula&hide_border=true&include_all_commits=true&count_private=true&layout=compact&hide=html,dart,c,cmake&bg_color=00000000&card_width=750)
 
 
 
