@@ -19,8 +19,7 @@ Feel free to reach me at [brandon_concepcion@berkeley.edu](mailto:brandon_concep
 
 # 💻 Tech Stack:
 ![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54) 
-[![Java](https://img.shields.io/badge/Java-red?style=flat&logo=java)](https://www.oracle.com/java/)	
-![R](https://img.shields.io/badge/r-%23276DC3.svg?style=plastic&logo=r&logoColor=white)
+[![Java](https://img.shields.io/badge/Java-red?style=flat&logo=java)](https://www.oracle.com/java/)
 ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=plastic&logo=latex&logoColor=white) 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white) 
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=plastic&logo=css3&logoColor=white)
@@ -31,14 +30,20 @@ Feel free to reach me at [brandon_concepcion@berkeley.edu](mailto:brandon_concep
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=plastic&logo=numpy&logoColor=white) 
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=plastic&logo=pandas&logoColor=white) 
 ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=plastic&logo=plotly&logoColor=white) 
-![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=plastic&logo=scikit-learn&logoColor=white)
-[![Matplotlib](https://img.shields.io/badge/Matplotlib-1.5.3-blue.svg)](https://matplotlib.org/)
+![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=plastic&logo=PyTorch&logoColor=white) 
+![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=plastic&logo=scikit-learn&logoColor=white) 
+![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=plastic&logo=scipy&logoColor=%white) 
+![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=plastic&logo=TensorFlow&logoColor=white) 
+
 
 
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=plastic&logo=Canva&logoColor=white) 	
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=plastic&logo=figma&logoColor=white)
 
 
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=jonathanferrari&theme=darcula&hide_border=true&include_all_commits=false&count_private=true&show_icons=true&bg_color=00000000&hide=stars,prs&card_width=750)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=jonathanferrari&theme=darcula&hide_border=true&include_all_commits=true&count_private=true&layout=compact&hide=html,dart,c,cmake&bg_color=00000000&card_width=750)
 
 
 
