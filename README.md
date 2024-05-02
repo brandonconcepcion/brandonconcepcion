@@ -41,7 +41,7 @@ Feel free to reach me at [brandon_concepcion@berkeley.edu](mailto:brandon_concep
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=plastic&logo=figma&logoColor=white)
 
 
-# 📊 GitHub Stats:
+---
 
 <p align="center">
   <img width="800" height="220" src="https://streak-stats.demolab.com?user=brandonconcepcion&theme=highcontrast&hide_border=true&border_radius=5&card_width=800">
