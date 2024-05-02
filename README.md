@@ -49,6 +49,10 @@ Feel free to reach me at [brandon_concepcion@berkeley.edu](mailto:brandon_concep
   <img width="800" height="220" src="https://streak-stats.demolab.com?user=brandonconcepcion&theme=highcontrast&hide_border=true&border_radius=5&card_width=800">
 </p>
 
+<div id="header" align="center">
+  <img src="https://komarev.com/ghpvc/?username=brandonconcepcion&style=for-the-badge&color=orange" alt=""/>
+</div>
+
 <p align="center">
  <img width="1000" src="assets/github-snake.svg" alt="snake"/>
 </p>
