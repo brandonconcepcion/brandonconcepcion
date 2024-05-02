@@ -47,8 +47,11 @@ Feel free to reach me at [brandon_concepcion@berkeley.edu](mailto:brandon_concep
   <img width="800" height="220" src="https://streak-stats.demolab.com?user=brandonconcepcion&theme=highcontrast&hide_border=true&border_radius=5&card_width=800">
 </p>
 
-![](https://github-readme-stats.vercel.app/api?username=brandonconcepcion&theme=darcula&hide_border=true&include_all_commits=false&count_private=true&show_icons=true&bg_color=00000000&hide=stars,prs&card_width=750)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=brandonconcepcion&theme=darcula&hide_border=true&include_all_commits=true&count_private=true&layout=compact&hide=html,dart,c,cmake&bg_color=00000000&card_width=750)
+<p align="center">
+  <img width="600" height="200" src="https://github-readme-stats.vercel.app/api?username=brandonconcepcion&show_icons=true&theme=vision-friendly-dark">
+  <img width="400" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brandonconcepcion&size_weight=0.15&count_weight=0.5&layout=compact&theme=vision-friendly-dark">
+</p>
+
 
 
 
