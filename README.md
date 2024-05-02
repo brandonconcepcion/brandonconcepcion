@@ -54,7 +54,8 @@ Feel free to reach me at [brandon_concepcion@berkeley.edu](mailto:brandon_concep
 ---
 
 <div align="center">
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" />
+<h2>My Contributions!</h2>
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/brandonconcepcion/brandonconcepcion/output/github-contribution-grid-snake.svg" />
   <br/><br/><br/>
 </div>
 
