@@ -46,11 +46,6 @@ Feel free to reach me at [brandon_concepcion@berkeley.edu](mailto:brandon_concep
   <img width="800" height="220" src="https://streak-stats.demolab.com?user=brandonconcepcion&theme=highcontrast&hide_border=true&border_radius=5&card_width=800">
 </p>
 
-<p align="center">
-  <img width="600" height="200" src="https://github-readme-stats.vercel.app/api?username=brandonconcepcion&show_icons=true&theme=vision-friendly-dark">
-  <img width="400" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brandonconcepcion&size_weight=0.15&count_weight=0.5&layout=compact&theme=vision-friendly-dark">
-</p>
-
 <div align="center">
   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/brandonconcepcion/brandonconcepcion/output/github-contribution-grid-snake.svg" />
   <br/><br/><br/>
