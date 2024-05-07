@@ -1,4 +1,4 @@
-[![MasterHead](https://i.pinimg.com/originals/1f/dd/1d/1fdd1dd87c03ceb8d4af123882e9be4a.gif)]((https://github.com/brandonconcepcion)
+[![MasterHead](https://i.pinimg.com/originals/1f/dd/1d/1fdd1dd87c03ceb8d4af123882e9be4a.gif)](https://github.com/brandonconcepcion)
 
 <p align="center">
 <img src="https://media4.giphy.com/media/nfZuetIXD3B6OFA7a5/giphy.gif?cid=6c09b9522j120pe1x2pgn7vt4ahlbta90bex7a5h3lkq406f&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=s" width="300" height="300" alt="Alt text for the GIF"/>
