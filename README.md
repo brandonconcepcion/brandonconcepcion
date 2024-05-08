@@ -11,7 +11,7 @@
       <ul>
         <li>Student instructor for UC Berkeley's Foundations of Data Science course (Data 8)</li>
         <li>Teaching Assistant for the Data Science Society's Academic Development Program</li>
-        <li>Data Consultant for University Health Services</li>
+        <li>Data Scientist for University Health Services</li>
       </ul>
         <p>Feel free to reach me at brandon_concepcion@berkeley.edu</p>
     </td>
