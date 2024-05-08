@@ -7,8 +7,9 @@
 
 <table>
   <tr>
-    <td valign="middle" align="center" width="70%">
+    <td valign="middle" align="left" width="70%">
       <ul>
+        <li>Second year studying Data Science + CS</li>
         <li>Student instructor for UC Berkeley's Foundations of Data Science course (Data 8)</li>
         <li>Teaching Assistant for the Data Science Society's Academic Development Program</li>
         <li>Data Scientist for University Health Services</li>
