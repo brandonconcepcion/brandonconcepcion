@@ -17,22 +17,7 @@
   </tr>
 </table>
 
-
-
-
-
-<p align="right">
-  <img src="https://media4.giphy.com/media/nfZuetIXD3B6OFA7a5/giphy.gif?cid=6c09b9522j120pe1x2pgn7vt4ahlbta90bex7a5h3lkq406f&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=s" width="300" height="300" alt="Alt text for the GIF"/>
-</p>
-
-
-
-
-
-### About me 
-Hello! My name is Brandon Lee Concepcion and I attend @ucberkeley. I am progressing through a double major in computer science and data science! My current positions are as a student instructor for UC Berkeley's Foundations of Data Science course (Data 8), a Teaching Assistant for the Data Science Society's Academic Development Program, and a Data Consultant for University Health Services!
-
-Feel free to reach me at [brandon_concepcion@berkeley.edu](mailto:brandon_concepcion@berkeley.edu)
+Feel free to connect me at [brandon_concepcion@berkeley.edu](mailto:brandon_concepcion@berkeley.edu)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
