@@ -23,30 +23,6 @@
 </table>
 
 
-
-
-
-
-
-<table>
-  <tr>
-    <td valign="middle" align="center" width="70%">
-      <ul>
-        <li>Second year studying Data Science + CS</li>
-        <li>Student instructor for UC Berkeley's Foundations of Data Science course (Data 8)</li>
-        <li>Teaching Assistant for the Data Science Society's Academic Development Program</li>
-        <li>Data Scientist for University Health Services</li>
-      </ul>
-         <p style="text-align: left;">Feel free to reach me at <a href="mailto:brandon_concepcion@berkeley.edu">brandon_concepcion@berkeley.edu</a></p>
-    </td>
-    <td valign="top" width="30%">
-      <img src="https://media4.giphy.com/media/nfZuetIXD3B6OFA7a5/giphy.gif?cid=6c09b9522j120pe1x2pgn7vt4ahlbta90bex7a5h3lkq406f&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=s" width="100%" alt="Animated dog">
-    </td>
-  </tr>
-</table>
-
-
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/brandonconcepcion" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="brandonconcepcion" height="30" width="40" /></a>
