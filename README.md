@@ -1,61 +1,19 @@
 [![MasterHead](https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/12cbe8a4-f55c-4b40-85bb-d8e1405e7b84/df1wdk7-fa62d5b6-a1b2-4b2b-b407-02e737476148.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzEyY2JlOGE0LWY1NWMtNGI0MC04NWJiLWQ4ZTE0MDVlN2I4NFwvZGYxd2RrNy1mYTYyZDViNi1hMWIyLTRiMmItYjQwNy0wMmU3Mzc0NzYxNDguZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.mLCZ3Vy_z29MbBgLUgiJIocq4NNs0o-pr276Ju8hAtA)](https://github.com/brandonconcepcion)
 
 
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>My GitHub Read Me</title>
-    <style>
-        .container {
-            display: flex;
-            align-items: flex-start;
-        }
-
-        .about-me {
-            flex: 1;
-            padding: 20px;
-            background-color: #f0f0f0;
-        }
-
-        .gif {
-            flex: 1;
-            padding: 20px;
-            background-color: #f0f0f0;
-        }
-
-        .gif img {
-            width: 100%;
-            height: auto;
-        }
-    </style>
-</head>
-<body>
-    <div class="container">
-        <div class="about-me">
-            <h3>About me</h3>
-            <p>Hello! My name is Brandon Lee Concepcion and I attend <a href="https://www.berkeley.edu/" target="_blank">@ucberkeley</a>.
-                I am progressing through a double major in computer science and data science! My current positions are as a student instructor for UC Berkeley's Foundations of Data Science course (Data 8), a Teaching Assistant for the Data Science Society's Academic Development Program, and a Data Consultant for University Health Services!</p>
-        </div>
-        <div class="gif">
-            <p align="center">
-                <img src="https://media4.giphy.com/media/nfZuetIXD3B6OFA7a5/giphy.gif?cid=6c09b9522j120pe1x2pgn7vt4ahlbta90bex7a5h3lkq406f&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=s" width="300" height="300" alt="Alt text for the GIF"/>
-            </p>
-        </div>
-    </div>
-</body>
-</html>
-
-
-<!-- <p align="center">
-<img src="https://media4.giphy.com/media/nfZuetIXD3B6OFA7a5/giphy.gif?cid=6c09b9522j120pe1x2pgn7vt4ahlbta90bex7a5h3lkq406f&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=s" width="300" height="300" alt="Alt text for the GIF"/>
-</p> -->
-
-
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=50&center=true&vCenter=true&width=700&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Brandon+Concepcion!;+Welcome+to+my+Github!;" />
 </h1>
+
+<p align="left">
+### About me 
+Hello! My name is Brandon Lee Concepcion and I attend @ucberkeley. I am progressing through a double major in computer science and data science! My current positions are as a student instructor for UC Berkeley's Foundations of Data Science course (Data 8), a Teaching Assistant for the Data Science Society's Academic Development Program, and a Data Consultant for University Health Services!
+</p>
+
+<p align="right">
+  <img src="https://media4.giphy.com/media/nfZuetIXD3B6OFA7a5/giphy.gif?cid=6c09b9522j120pe1x2pgn7vt4ahlbta90bex7a5h3lkq406f&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=s" width="300" height="300" alt="Alt text for the GIF"/>
+</p>
+
 
 
 ### About me 
