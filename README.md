@@ -11,7 +11,7 @@
       <ul style="text-align: center; list-style-position: inside;">
         <li>Second year studying Data Science + CS</li>
         <li>Student instructor for UC Berkeley's Foundations of Data Science course (Data 8)</li>
-        <li>Teaching Assistant for the Data Science Society's Academic Development Program</li>
+        <li>Director of Academic Development for the Data Science Society's Academic Development Committee</li>
         <li>Data Scientist for University Health Services</li>
       </ul>
       <p>Feel free to reach me at <a href="mailto:brandon_concepcion@berkeley.edu">brandon_concepcion@berkeley.edu</a></p>
