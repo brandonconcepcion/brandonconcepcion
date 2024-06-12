@@ -9,7 +9,7 @@
   <tr>
     <td valign="middle" align="left" width="70%">
       <ul style="text-align: center; list-style-position: inside;">
-        <li>Second year studying Data Science + CS</li>
+        <li>Third year studying Data Science + CS</li>
         <li>Student instructor for UC Berkeley's Foundations of Data Science course (Data 8)</li>
         <li>Director of Academic Development for the Data Science Society's Academic Development Committee</li>
         <li>Data Scientist for University Health Services</li>
