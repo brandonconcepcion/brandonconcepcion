@@ -28,7 +28,7 @@
 <a href="https://instagram.com/bran.bato" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="bran.bato" height="30" width="40" /></a>
 </p>
 
-
+<!--
 # 💻 Tech Stack:
 ![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54) 
 [![Java](https://img.shields.io/badge/Java-red?style=flat&logo=java)](https://www.oracle.com/java/)
@@ -48,6 +48,7 @@
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=plastic&logo=TensorFlow&logoColor=white) 
 
 ---
+-->
 
 <p align="center">
   <img width="800" height="220" src="https://streak-stats.demolab.com?user=brandonconcepcion&theme=highcontrast&hide_border=true&border_radius=5&card_width=800">
