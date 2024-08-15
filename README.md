@@ -24,13 +24,17 @@
 <h3 align="left">Projects:</h3>
 <ul style = "font-size: 20px"><a style = "font-size: 20px" href = "https://github.com/brandonconcepcion/Prophecy-of-Properties">Prophcy of Properties:</a> Housing Price Prediction</ul>
 
+<h3 align="left">Connect with me!</h3>
+<table>
+  <tr>
+    <td valign="middle" align="left" width="100%">
+      <a href="mailto:brandon_concepcion@berkeley.edu" target="_blank"><img align="center" src="assets/email-icon.svg" alt="brandonconcepcion" height="30" width="40" /></a>
+        <a href="https://linkedin.com/in/brandonconcepcion" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="brandonconcepcion" height="30" width="40" /></a>
+        <a href="https://instagram.com/bran.bato" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="bran.bato" height="30" width="40" /></a>
+    </td>
+  </tr>
+</table>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="mailto:brandon_concepcion@berkeley.edu" target="_blank"><img align="center" src="assets/email-icon.svg" alt="brandonconcepcion" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/brandonconcepcion" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="brandonconcepcion" height="30" width="40" /></a>
-<a href="https://instagram.com/bran.bato" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="bran.bato" height="30" width="40" /></a>
-</p>
 
 <!--
 # 💻 Tech Stack:
