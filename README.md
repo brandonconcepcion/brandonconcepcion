@@ -26,7 +26,7 @@
 
 <h2 align="left">Connect with me!</h3>
 <div style="text-align: center;">
-  <table style="margin: 0 auto;">
+  <table style="margin: 0 auto; width: 50%;">
     <tr valign="middle">
       <td valign="middle">
         <a href="mailto:brandon_concepcion@berkeley.edu" target="_blank">
