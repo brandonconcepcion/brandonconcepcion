@@ -12,8 +12,8 @@
         <li style = "font-size: 20px">Third year studying Data Science and Computer Science</li>
         <li style = "font-size: 20px">Student instructor for UC Berkeley's Foundations of Data Science course (Data 8)</li>
         <li style = "font-size: 20px">Director of Academic Development for the Data Science Society @ Berkeley</li>
+        <p>Feel free to reach me at <a href="mailto:brandon_concepcion@berkeley.edu">brandon_concepcion@berkeley.edu</a></p>
       </ul>
-      <p>Feel free to reach me at <a href="mailto:brandon_concepcion@berkeley.edu">brandon_concepcion@berkeley.edu</a></p>
     </td>
     <td valign="top" width="30%">
       <img src="https://media4.giphy.com/media/nfZuetIXD3B6OFA7a5/giphy.gif?cid=6c09b9522j120pe1x2pgn7vt4ahlbta90bex7a5h3lkq406f&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=s" width="100%" alt="Animated dog">
@@ -24,13 +24,13 @@
 <h3 align="left">Projects:</h3>
 <ul style = "font-size: 20px"><a style = "font-size: 20px" href = "https://github.com/brandonconcepcion/Prophecy-of-Properties">Prophcy of Properties:</a> Housing Price Prediction</ul>
 
-<!--
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="mailto:brandon_concepcion@berkeley.edu" target="_blank"><img align="center" src="assets/email-icon.svg" alt="brandonconcepcion" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/brandonconcepcion" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="brandonconcepcion" height="30" width="40" /></a>
 <a href="https://instagram.com/bran.bato" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="bran.bato" height="30" width="40" /></a>
 </p>
--->
 
 <!--
 # 💻 Tech Stack:
