@@ -9,9 +9,9 @@
   <tr>
     <td valign="middle" align="left" width="70%">
       <ul style="text-align: center; list-style-position: inside;">
-        <li>Third year studying Data Science and Computer Science</li>
-        <li>Student instructor for UC Berkeley's Foundations of Data Science course (Data 8)</li>
-        <li>Director of Academic Development for the Data Science Society @ Berkeley</li>
+        <li style = "font-size: 20px">Third year studying Data Science and Computer Science</li>
+        <li style = "font-size: 20px">Student instructor for UC Berkeley's Foundations of Data Science course (Data 8)</li>
+        <li style = "font-size: 20px">Director of Academic Development for the Data Science Society @ Berkeley</li>
       </ul>
       <p>Feel free to reach me at <a href="mailto:brandon_concepcion@berkeley.edu">brandon_concepcion@berkeley.edu</a></p>
     </td>
@@ -22,7 +22,7 @@
 </table>
 
 <h3 align="left">Projects:</h3>
-<ul><a href = "https://github.com/brandonconcepcion/Prophecy-of-Properties">Prophcy of Properties:</a> Housing Price Prediction</ul>
+<ul style = "font-size: 20px"><a style = "font-size: 20px" href = "https://github.com/brandonconcepcion/Prophecy-of-Properties">Prophcy of Properties:</a> Housing Price Prediction</ul>
 
 <!--
 <h3 align="left">Connect with me:</h3>
