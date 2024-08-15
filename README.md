@@ -24,14 +24,15 @@
 <h3 align="left">Projects:</h3>
 <ul style = "font-size: 20px"><a style = "font-size: 20px" href = "https://github.com/brandonconcepcion/Prophecy-of-Properties">Prophcy of Properties:</a> Housing Price Prediction</ul>
 
-<h3 align="left">Connect with me!</h3>
-<table>
-  <tr valign = "middle" width = 100$>
+<h2 align="left">Connect with me!</h3>
+<table style="margin: 0 auto;">
+  <tr valign="middle" width="100%">
     <td valign="middle"><a href="mailto:brandon_concepcion@berkeley.edu" target="_blank"><img align="center" src="assets/email-icon.svg" alt="brandonconcepcion" height="50" /></a></td>
     <td valign="middle"><a href="https://linkedin.com/in/brandonconcepcion" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="brandonconcepcion" height="50" /></a></td>
    <td valign="middle"><a href="https://instagram.com/bran.bato" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="bran.bato" height="50" /></a></td>
   </tr>
 </table>
+
 
 
 <!--
