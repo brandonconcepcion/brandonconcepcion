@@ -22,7 +22,7 @@
 </table>
 
 <h3 align="left">Projects:</h3>
-<a href = "https://github.com/brandonconcepcion/Prophecy-of-Properties">Prophcy of Properties: Housing Price Prediction</a>
+<ul><a href = "https://github.com/brandonconcepcion/Prophecy-of-Properties">Prophcy of Properties:</a> Housing Price Prediction</ul>
 
 <!--
 <h3 align="left">Connect with me:</h3>
