@@ -28,9 +28,9 @@
 <table>
   <tr>
     <td valign="middle" align="left" width="100%">
-      <a href="mailto:brandon_concepcion@berkeley.edu" target="_blank"><img align="center" src="assets/email-icon.svg" alt="brandonconcepcion" height="30" width="40" /></a>
-        <a href="https://linkedin.com/in/brandonconcepcion" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="brandonconcepcion" height="30" width="40" /></a>
-        <a href="https://instagram.com/bran.bato" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="bran.bato" height="30" width="40" /></a>
+        <td><a href="mailto:brandon_concepcion@berkeley.edu" target="_blank"><img align="center" src="assets/email-icon.svg" alt="brandonconcepcion" height="50" /></a></td>
+        <td><a href="https://linkedin.com/in/brandonconcepcion" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="brandonconcepcion" height="50" /></a></td>
+       <td><a href="https://instagram.com/bran.bato" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="bran.bato" height="50" /></a></td>
     </td>
   </tr>
 </table>
