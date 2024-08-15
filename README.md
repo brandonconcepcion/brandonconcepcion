@@ -26,9 +26,9 @@
 
 <h2 align="left">Connect with me!</h3>
 <div style="text-align: center;">
-  <table style="margin: 0 auto; width: 50%;">
-    <tr valign="middle">
-      <td valign="middle">
+  <table>
+    <tr>
+      <td valign="middle" width="30%">
         <a href="mailto:brandon_concepcion@berkeley.edu" target="_blank">
           <img align="center" src="assets/email-icon.svg" alt="brandonconcepcion" height="50" />
         </a>
