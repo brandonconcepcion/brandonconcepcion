@@ -21,6 +21,9 @@
   </tr>
 </table>
 
+<h3 align="left">Projects:</h3>
+* [Prophcy of Properties: Housing Price Prediction](https://github.com/brandonconcepcion/Prophecy-of-Properties)
+
 <!--
 <h3 align="left">Connect with me:</h3>
 <p align="left">
