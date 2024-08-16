@@ -1,9 +1,14 @@
-[![MasterHead](https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/12cbe8a4-f55c-4b40-85bb-d8e1405e7b84/df1wdk7-fa62d5b6-a1b2-4b2b-b407-02e737476148.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzEyY2JlOGE0LWY1NWMtNGI0MC04NWJiLWQ4ZTE0MDVlN2I4NFwvZGYxd2RrNy1mYTYyZDViNi1hMWIyLTRiMmItYjQwNy0wMmU3Mzc0NzYxNDguZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.mLCZ3Vy_z29MbBgLUgiJIocq4NNs0o-pr276Ju8hAtA)](https://github.com/brandonconcepcion)
-
+<p align="center">
+  <a href="https://github.com/brandonconcepcion">
+    <img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/12cbe8a4-f55c-4b40-85bb-d8e1405e7b84/df1wdk7-fa62d5b6-a1b2-4b2b-b407-02e737476148.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzEyY2JlOGE0LWY1NWMtNGI0MC04NWJiLWQ4ZTE0MDVlN2I4NFwvZGYxd2RrNy1mYTYyZDViNi1hMWIyLTRiMmItYjQwNy0wMmU3Mzc0NzYxNDguZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.mLCZ3Vy_z29MbBgLUgiJIocq4NNs0o-pr276Ju8hAtA" alt="MasterHead" width="850"/>
+  </a>
+</p>
 
 <h1 align="center">
     <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=500&size=52&duration=3000&pause=510&color=A2C7FF&background=FFFFFF00&center=true&vCenter=true&width=700&height=70&lines=Hey+There+%F0%9F%91%8B;I'm+Brandon+Concepcion;Welcome+to+my+GitHub+%F0%9F%92%BB" alt="Typing SVG" /></a>
 </h1>
+
+
 
 <h1 align="left"> ⛩️ Projects Catalog:</h1>
 <details>
@@ -24,6 +29,7 @@
    
 </details>
 
+<h1 align="left"> 😴 About Me:</h1>
 <table>
   <tr>
     <td valign="middle" align="left" width="70%">
@@ -40,21 +46,21 @@
   </tr>
 </table>
 
-<h2 align="left">Connect with me!</h3>
+<h1 align="left">🔭 Connect with me!</h1>
 <div style="text-align: center;">
   <table>
     <tr>
-      <td valign="middle" width="30%">
+      <td align = "center" valign="middle" width="30%">
         <a href="mailto:brandon_concepcion@berkeley.edu" target="_blank">
-          <img align="center" src="assets/email-icon.png" alt="brandonconcepcion" height="70" width="111"  />
+          <img align="center" src="assets/email-icon.png" alt="brandonconcepcion" height="70" width="130"  />
         </a>
       </td>
-      <td valign="middle">
+      <td align = "center" valign="middle" width="30%">
         <a href="https://linkedin.com/in/brandonconcepcion" target="_blank">
-          <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="brandonconcepcion" height="50" />
+          <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="brandonconcepcion" height="45" />
         </a>
       </td>
-      <td valign="middle">
+      <td align = "center" valign="middle" width="30%">
         <a href="https://instagram.com/bran.bato" target="_blank">
           <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="bran.bato" height="50" />
         </a>
