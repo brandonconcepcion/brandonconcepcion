@@ -16,11 +16,10 @@
 </details>
 
 <details>
-     <summary>  🐝 The Colony Chronicles: Bee-Gone </summary>
+     <summary>  <h2>🐝 The Colony Chronicles: Bee-Gone </h2></summary>
     <ul>
-        <li>Repository <a href = "https://github.com/brandonconcepcion/Colony-Chronicles">Link</a></li>
-        <br>
-        <li><h5>Tools used: Python, HTML, CSS, JavaScript</h5></li>
+        <li><h4>Repository <a href = "https://github.com/brandonconcepcion/Colony-Chronicles">Link</a></h4></li>
+        <li><h4>Tools used: Python, HTML, CSS, JavaScript</h4></li>
     </ul>
 </details>
 
