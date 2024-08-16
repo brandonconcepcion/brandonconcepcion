@@ -5,6 +5,10 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=50&center=true&vCenter=true&width=700&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Brandon+Concepcion!;+Welcome+to+my+Github!;" />
 </h1>
 
+<h3 align="left"> 🤓 Projects Catalog:</h3>
+<ul style = "font-size: 20px"><a style = "font-size: 20px" href = "https://github.com/brandonconcepcion/Prophecy-of-Properties">Prophcy of Properties:</a> Housing Price Prediction</ul>
+<ul style = "font-size: 20px"><a style = "font-size: 20px" href = "https://github.com/brandonconcepcion/Colony-Chronicles">The Colony Chronicles:</a> Bee-Gone</ul>
+
 <table>
   <tr>
     <td valign="middle" align="left" width="70%">
@@ -20,9 +24,6 @@
     </td>
   </tr>
 </table>
-
-<h3 align="left">Projects:</h3>
-<ul style = "font-size: 20px"><a style = "font-size: 20px" href = "https://github.com/brandonconcepcion/Prophecy-of-Properties">Prophcy of Properties:</a> Housing Price Prediction</ul>
 
 <h2 align="left">Connect with me!</h3>
 <div style="text-align: center;">
