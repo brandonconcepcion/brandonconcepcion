@@ -10,9 +10,9 @@
      <summary> 🏠 Prophecy of Properties: Housing Price Prediction </summary>
     <ul>
         <li>Repository <a href = "https://github.com/brandonconcepcion/Prophecy-of-Properties">Link</a></li>
+        <br>
         <li style = "font-size: 20px;" >Tools used: Python, NumPy, Pandas, Sklearn, RegEx operations</li>
     </ul>
-  <br/>
 </details>
 
 <details>
