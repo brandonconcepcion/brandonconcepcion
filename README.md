@@ -38,7 +38,7 @@
         <li><h4>Repository <a href = "https://github.com/brandonconcepcion/Colony-Chronicles">Link</a></h4></li>
         <li><h4>Tools used: Python, HTML, CSS, JavaScript</h4></li>
     </ul>
-   
+   <br/>
 </details>
 
 <details>
