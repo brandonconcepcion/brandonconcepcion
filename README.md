@@ -31,8 +31,8 @@
         <li style = "font-size: 20px">Third year studying Data Science and Computer Science</li>
         <li style = "font-size: 20px">Student instructor for UC Berkeley's Foundations of Data Science course (Data 8)</li>
         <li style = "font-size: 20px">Director of Academic Development for the Data Science Society @ Berkeley</li>
-        <p>Feel free to reach me at <a href="mailto:brandon_concepcion@berkeley.edu">brandon_concepcion@berkeley.edu</a></p>
       </ul>
+    <p>Feel free to reach me at <a href="mailto:brandon_concepcion@berkeley.edu">brandon_concepcion@berkeley.edu</a></p>
     </td>
     <td valign="top" width="30%">
       <img src="https://media4.giphy.com/media/nfZuetIXD3B6OFA7a5/giphy.gif?cid=6c09b9522j120pe1x2pgn7vt4ahlbta90bex7a5h3lkq406f&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=s" width="100%" alt="Animated dog">
@@ -46,7 +46,7 @@
     <tr>
       <td valign="middle" width="30%">
         <a href="mailto:brandon_concepcion@berkeley.edu" target="_blank">
-          <img align="center" src="assets/email-icon.svg" alt="brandonconcepcion" height="50" />
+          <img align="center" src="https://icons8.com/icon/37246/gmail-logo" alt="brandonconcepcion" height="50" />
         </a>
       </td>
       <td valign="middle">
