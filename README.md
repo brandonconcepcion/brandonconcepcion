@@ -11,17 +11,16 @@
     <ul>
         <li>Repository <a href = "https://github.com/brandonconcepcion/Prophecy-of-Properties">Link</a></li>
         <br>
-        <li style = "font-size: 20px;" >Tools used: Python, NumPy, Pandas, Sklearn, RegEx operations</li>
+        <li>Tools used: Python, NumPy, Pandas, Sklearn, RegEx operations</li>
     </ul>
 </details>
 
 <details>
      <summary>  🐝 The Colony Chronicles: Bee-Gone </summary>
-    <br>
     <ul>
         <li>Repository <a href = "https://github.com/brandonconcepcion/Colony-Chronicles">Link</a></li>
         <br>
-        <li style = "font-size: 20px;">Tools used: Python, HTML, CSS, JavaScript</li>
+        <li><h5>Tools used: Python, HTML, CSS, JavaScript</h5></li>
     </ul>
 </details>
 
