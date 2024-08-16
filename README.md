@@ -5,9 +5,20 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=50&center=true&vCenter=true&width=700&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Brandon+Concepcion!;+Welcome+to+my+Github!;" />
 </h1>
 
-<h3 align="left"> 🤓 Projects Catalog:</h3>
-<ul style = "font-size: 20px"><a style = "font-size: 20px" href = "https://github.com/brandonconcepcion/Prophecy-of-Properties">Prophcy of Properties:</a> Housing Price Prediction</ul>
-<ul style = "font-size: 20px"><a style = "font-size: 20px" href = "https://github.com/brandonconcepcion/Colony-Chronicles">The Colony Chronicles:</a> Bee-Gone</ul>
+<h2 align="left"> ⛩️ Projects Catalog:</h2>
+<details>
+     <summary> 🏠 Prophecy of Properties: Housing Price Prediction </summary>
+    - [Repository Link](https://github.com/brandonconcepcion/Prophecy-of-Properties)
+    - Tools used: Python, NumPy, Pandas, Sklearn, RegEx operations
+  <br/>
+</details>
+
+<details>
+     <summary>  🐝 The Colony Chronicles: Bee-Gone </summary>
+    - [Repository Link](https://github.com/brandonconcepcion/Colony-Chronicles)
+    - Tools used: Python, HTML, CSS, JavaScript
+  <br/>
+</details>
 
 <table>
   <tr>
