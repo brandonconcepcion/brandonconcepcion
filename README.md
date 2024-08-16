@@ -17,11 +17,12 @@
 
 <details>
      <summary>  🐝 The Colony Chronicles: Bee-Gone </summary>
+    <br>
     <ul>
-        <li><a href = "https://github.com/brandonconcepcion/Colony-Chronicles">Repository Link</a></li>
+        <li>Repository<a href = "https://github.com/brandonconcepcion/Colony-Chronicles" style = "font-size: 20px;">Link</a></li>
+        <br>
         <li>Tools used: Python, HTML, CSS, JavaScript</li>
     </ul>
-  <br/>
 </details>
 
 <table>
