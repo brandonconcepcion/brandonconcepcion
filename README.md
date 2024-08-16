@@ -8,15 +8,19 @@
 <h2 align="left"> ⛩️ Projects Catalog:</h2>
 <details>
      <summary> 🏠 Prophecy of Properties: Housing Price Prediction </summary>
-    - [Repository Link](https://github.com/brandonconcepcion/Prophecy-of-Properties)
-    - Tools used: Python, NumPy, Pandas, Sklearn, RegEx operations
+    <ul>
+        <li><a href = "https://github.com/brandonconcepcion/Prophecy-of-Properties">Repository Link</a></li>
+        <li>Tools used: Python, NumPy, Pandas, Sklearn, RegEx operations</li>
+    </ul>
   <br/>
 </details>
 
 <details>
      <summary>  🐝 The Colony Chronicles: Bee-Gone </summary>
-    - [Repository Link](https://github.com/brandonconcepcion/Colony-Chronicles)
-    - Tools used: Python, HTML, CSS, JavaScript
+    <ul>
+        <li><a href = "https://github.com/brandonconcepcion/Colony-Chronicles">Repository Link</a></li>
+        <li>Tools used: Python, HTML, CSS, JavaScript</li>
+    </ul>
   <br/>
 </details>
 
