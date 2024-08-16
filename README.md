@@ -46,7 +46,7 @@
     <tr>
       <td valign="middle" width="30%">
         <a href="mailto:brandon_concepcion@berkeley.edu" target="_blank">
-          <img align="center" src="https://icons8.com/icon/37246/gmail-logo" alt="brandonconcepcion" height="50" />
+          <img align="center" src="assets/email-icon.png" alt="brandonconcepcion" height="50" />
         </a>
       </td>
       <td valign="middle">
