@@ -5,25 +5,23 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=50&center=true&vCenter=true&width=700&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Brandon+Concepcion!;+Welcome+to+my+Github!;" />
 </h1>
 
-<h2 align="left"> ⛩️ Projects Catalog:</h2>
+<h1 align="left"> ⛩️ Projects Catalog:</h1>
 <details>
      <summary> 🏠 Prophecy of Properties: Housing Price Prediction </summary>
     <ul>
-        <li><a href = "https://github.com/brandonconcepcion/Prophecy-of-Properties">Repository Link</a></li>
-        <li>Tools used: Python, NumPy, Pandas, Sklearn, RegEx operations</li>
+        <li>Repository <a href = "https://github.com/brandonconcepcion/Prophecy-of-Properties">Link</a></li>
+        <li style = "font-size: 20px;" >Tools used: Python, NumPy, Pandas, Sklearn, RegEx operations</li>
     </ul>
   <br/>
 </details>
-
-<br>
 
 <details>
      <summary>  🐝 The Colony Chronicles: Bee-Gone </summary>
     <br>
     <ul>
-        <li>Repository<a href = "https://github.com/brandonconcepcion/Colony-Chronicles" style = "font-size: 20px;">Link</a></li>
+        <li>Repository <a href = "https://github.com/brandonconcepcion/Colony-Chronicles">Link</a></li>
         <br>
-        <li>Tools used: Python, HTML, CSS, JavaScript</li>
+        <li style = "font-size: 20px;">Tools used: Python, HTML, CSS, JavaScript</li>
     </ul>
 </details>
 
