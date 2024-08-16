@@ -9,18 +9,19 @@
 <details>
      <summary> 🏠 Prophecy of Properties: Housing Price Prediction </summary>
     <ul>
-        <li>Repository <a href = "https://github.com/brandonconcepcion/Prophecy-of-Properties">Link</a></li>
-        <br>
-        <li>Tools used: Python, NumPy, Pandas, Sklearn, RegEx operations</li>
+        <li><h4>Repository <a href = "https://github.com/brandonconcepcion/Prophecy-of-Properties">Link</a></h4></li>
+        <li><h4>Tools used: Python, NumPy, Pandas, Sklearn, RegEx operations</h4></li>
     </ul>
+    <br/>
 </details>
 
 <details>
-     <summary>  <h2>🐝 The Colony Chronicles: Bee-Gone </h2></summary>
+     <summary> 🐝 The Colony Chronicles: Bee-Gone </summary>
     <ul>
         <li><h4>Repository <a href = "https://github.com/brandonconcepcion/Colony-Chronicles">Link</a></h4></li>
         <li><h4>Tools used: Python, HTML, CSS, JavaScript</h4></li>
     </ul>
+   
 </details>
 
 <table>
