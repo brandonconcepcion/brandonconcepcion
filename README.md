@@ -24,6 +24,15 @@
 </details>
 
 <details>
+     <summary> 🏠 To Spam, or Ham? </summary>
+    <ul>
+        <li><h4>Repository <a href = https://github.com/brandonconcepcion/Spam-vs-Ham">Link</a></h4></li>
+        <li><h4>Tools used: Python, NumPy, Pandas, Sklearn, Seaborn, RegEx operations</h4></li>
+    </ul>
+    <br/>
+</details>
+
+<details>
      <summary> 🏠 Prophecy of Properties: Housing Price Prediction </summary>
     <ul>
         <li><h4>Repository <a href = "https://github.com/brandonconcepcion/Prophecy-of-Properties">Link</a></h4></li>
