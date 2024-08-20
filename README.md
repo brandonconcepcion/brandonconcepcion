@@ -61,6 +61,20 @@
    <br/>
 </details>
 
+<h1 align="left"> 📕 Courses Catalog:</h1>
+<details>
+     <summary>💻 Intro to HTML and CSS </summary>
+    <ul>
+        <li><h4> Project <a href = "https://www.youtube.com/watch?v=QTW69CsgJW8">demo!</a></h4></li>
+        <!--<li><h4>Specific <a href = https://www.data8.org/su24/acknowledgements/#website-contributors>Contributions</a></h4></li>-->
+        <li><h4>Repository <a href = "https://github.com/brandonconcepcion/Web/tree/main/Intro%20to%20HTML%20and%20CSS%20">Link</a></h4></li>
+        <li><h4>Skills learned: HTML, CSS, Nested Layouts, Display: block / inline-block, Grid, Flexboxes, Position</h4></li>
+    </ul>
+   <br/>
+</details>
+
+
+
 <h1 align="left"> 😴 About Me:</h1>
 <table>
   <tr>
