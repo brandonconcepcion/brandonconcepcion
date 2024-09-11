@@ -148,6 +148,7 @@
   <br/><br/><br/>
 </div>
 
+[![](https://visitcount.itsvg.in/api?id=brandonconcepcion&label=Profile%20Views&color=8&icon=3&pretty=true)](https://visitcount.itsvg.in)
 
 
 
