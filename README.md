@@ -13,6 +13,44 @@
 <h1 align="left"> ⛩️ Projects Catalog:</h1>
 
 <details>
+     <summary> 🚧 SafeZone</summary>
+    <ul>
+        <li><h4>Repository <a href = "https://github.com/brandonconcepcion/SafeZone">Link</a></h4></li>
+        <li><h4>Tools used: Streamlit, Python, Pandas, Scikit-Learn, Application Programming Interfaces</h4></li>
+    </ul>
+   <br/>
+</details>
+
+<details>
+     <summary> 👁️ EyeSpy AI: Retinal Video Sequences</summary>
+    <ul>
+        <li><h4>Repository <a href = "https://github.com/jonathanferrari/datathon-cv">Link</a></h4></li>
+        <li><h4>Tools used: PyTorch, CV2, Deep Neural Networks, Long Short Term Memories</h4></li>
+    </ul>
+   <br/>
+</details>
+
+<details>
+     <summary> 📚 DATA 198 Textbook</summary>
+    <ul>
+        <li><h4>Textbook <a href = "https://dssdecal.org/textbook/chapters/intro.html">Link!</a></h4></li>
+        <li><h4>Repository <a href = "https://github.com/dssdecal/textbook">Link</a></h4></li>
+    </ul>
+   <br/>
+</details>
+
+<details>
+     <summary> 👨‍🚀 Course Website for DATA 198: Introduction to Real World Data Science</summary>
+    <ul>
+        <li><h4>Published <a href = "https://dssdecal.org">Site!</a></h4></li>
+        <li><h4>Fall 2024 <a href = https://dssdecal.org/fa24">Site</a></h4></li>
+        <li><h4>Repository <a href = "https://github.com/dssdecal/fa24">Link</a></h4></li>
+        <li><h4>Tools used: HTML, CSS, Ruby, Jekyll, Just The Docs</h4></li>
+    </ul>
+   <br/>
+</details>
+
+<details>
      <summary> 📊 Course Website for DATA c8: Foundations of Data Science</summary>
     <ul>
         <li><h4>Published <a href = "https://www.data8.org/su24/">Site!</a></h4></li>
@@ -46,17 +84,6 @@
     <ul>
         <li><h4>Repository <a href = "https://github.com/brandonconcepcion/Colony-Chronicles">Link</a></h4></li>
         <li><h4>Tools used: Python, HTML, CSS, JavaScript</h4></li>
-    </ul>
-   <br/>
-</details>
-
-<details>
-     <summary> 🧲 Course Website for DATA 198: Introduction to Real World Data Science</summary>
-    <ul>
-        <li><h4>Published <a href = "https://dss-data198.github.io/Data198/index.html">Site!</a></h4></li>
-        <!--<li><h4>Specific <a href = https://www.data8.org/su24/acknowledgements/#website-contributors>Contributions</a></h4></li>-->
-        <li><h4>Repository <a href = "https://github.com/DSS-Data198/Data198">Link</a></h4></li>
-        <li><h4>Tools used: HTML, CSS, JavaScript, Jekyll, Just The Docs</h4></li>
     </ul>
    <br/>
 </details>
