@@ -13,15 +13,6 @@
 <h1 align="left"> ⛩️ Projects Catalog:</h1>
 
 <details>
-     <summary> 🚧 SafeZone</summary>
-    <ul>
-        <li><h4>Repository <a href = "https://github.com/brandonconcepcion/SafeZone">Link</a></h4></li>
-        <li><h4>Tools used: Streamlit, Python, Pandas, Scikit-Learn, Application Programming Interfaces</h4></li>
-    </ul>
-   <br/>
-</details>
-
-<details>
      <summary> 👁️ EyeSpy AI: Retinal Video Sequences</summary>
     <ul>
         <li><h4>Repository <a href = "https://github.com/jonathanferrari/datathon-cv">Link</a></h4></li>
