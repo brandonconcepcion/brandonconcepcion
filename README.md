@@ -83,10 +83,20 @@
 <details>
      <summary> 🧲 Big Data Analytics with Hadoop and Apache Spark </summary>
     <ul>
-        <li><h4> Project <a href = "https://www.linkedin.com/learning/certificates/350c0f7552a0236fd2a8adf22465614e791a20b4a35dfcb061dc9c68bbcbef7e?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3BBA82z1A5RG2X3j7Q6e5oQA%3D%3D">certificate!</a></h4></li>
+        <li><h4> Course <a href = "https://www.linkedin.com/learning/certificates/350c0f7552a0236fd2a8adf22465614e791a20b4a35dfcb061dc9c68bbcbef7e?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3BBA82z1A5RG2X3j7Q6e5oQA%3D%3D">certificate!</a></h4></li>
         <!--<li><h4>Specific <a href = https://www.data8.org/su24/acknowledgements/#website-contributors>Contributions</a></h4></li>-->
-        <li><h4>Repository <a href = "https://github.com/brandonconcepcion/Web/tree/main/Intro%20to%20HTML%20and%20CSS%20">Link</a></h4></li>
+        <li><h4>Repository <a href = "https://github.com/brandonconcepcion/Data_Engineering/tree/main/Spark">Link</a></h4></li>
         <li><h4>Skills learned: Apache Spark, Distributed Computing, Hadoop</h4></li>
+    </ul>
+   <br/>
+</details>
+
+<details>
+     <summary> 🪟 SQL Practice: Window Functions</summary>
+    <ul>
+        <li><h4> Course <a href = "https://www.linkedin.com/learning/certificates/f1bf61faec6173b393f94c447d046220472ff810cb587f78ba6aa0eb870e2ea4?u=42798068">certificate!</a></h4></li>
+        <!--<li><h4>Specific <a href = https://www.data8.org/su24/acknowledgements/#website-contributors>Contributions</a></h4></li>-->
+        <li><h4>Skills learned: SQL, Window Functions</h4></li>
     </ul>
    <br/>
 </details>
